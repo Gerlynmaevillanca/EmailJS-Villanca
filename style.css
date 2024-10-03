@@ -1,0 +1,60 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background: url("https://64.media.tumblr.com/5f6b293311aa3a87ca527697476dbd37/tumblr_obfjz6Bd9f1runoqyo5_r1_540.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    color: white;
+    font-size: 35px;
+    text-align: center;
+    margin: 8% auto 0 auto;
+}
+
+#contact-form {
+    border: transparent;
+    border-radius: 25px;
+    width: 15%;
+    background-color: rgba(255, 255, 255, 0.247);
+    padding: 10px;
+    margin: 5% auto 0 auto;
+    text-align: center;
+}
+
+#contact-form input {
+    height: 3vh;
+    border-radius: 25px;
+    border: transparent;
+    box-shadow: 2px 2px 0 0;
+}
+
+#contact-form textarea {
+    height: 5vh;
+    width: 80%;
+    border-radius: 25px;
+    border: transparent;
+    box-shadow: 2px 2px 0 0;
+    padding: 10px;
+    margin: 2%;
+}
+
+button {
+    background-color: white;
+    padding: 8px;
+    border-radius: 25px;
+    border: transparent;
+    box-shadow: 2px 2px 0 0;
+}
+
+footer {
+    color: white;
+    bottom: 0;
+    position: absolute;
+    width: 100%;
+    text-align: center;
+}
